@@ -1,0 +1,6 @@
+{
+  "name": "Abstract token",
+  "symbol": "abstract",
+  "description": "Example token from Solana Making a Token guide.",
+  "image": "https://github.com/Prathamesh-Bhaskar/solana/blob/main/image.png"
+}
